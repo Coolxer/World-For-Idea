@@ -12,8 +12,6 @@ body {
     right: 0;
     bottom: 0;
     left: 0;
-  //you need to setup file-loader in webpack before you can use images
-    background: url("../../assests/image/background.png");
     background-size: cover;
     background-position: center;
     width: 100%;
